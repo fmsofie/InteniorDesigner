@@ -1,0 +1,121 @@
+.menü{
+    background-color: #45015d;
+    width: 150px;
+    padding: 10px 20px;
+    position: fixed;
+    top: 5px;
+    height: 100%;
+    color:white;
+    border-radius: 15px;
+}
+.menü a{
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.menü a:hover{
+    background-color: white;
+    color: black;
+}
+.main{
+    margin: 80px 40px 0px 360px;
+}
+.images img{
+    width: 45%;
+    margin: 10px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 64px;
+}
+h2{
+    color: #45015d;
+    font-size: 48px;
+}
+hr{
+    border: 5px solid #45015d;
+    border-radius: 10px;
+}
+#text{
+    font-weight: 600;
+}
+.member{
+    width: 30%;
+    display: inline-block;
+    margin: 10px;
+}
+.member img{
+    width: 100%;
+    border-radius: 20px;
+}
+.description {
+    background-color: rgb(219, 219, 219);
+    border-radius: 20px;
+    padding: 20px;
+}
+.tariff{
+    background-color: rgb(226, 223, 223) ;
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+}
+.tariff li{
+    border-bottom: solid rgb(187, 184, 184) 1px;
+    list-style: none;
+    border-radius: 10px;
+    padding: 15px 0;
+}
+.tariff ul{
+    margin: 0;
+    padding: 0px;
+    border-radius: 10px;
+}
+#basic{
+     background-color: rebeccapurple;
+     padding: 20px 0;
+     border-radius: 10px;
+     font-size: 24px;
+}
+.prise{
+    font-size: 30px;
+    font-weight: 600;
+}
+.period{
+    opacity: 0.5;
+}
+#b1{
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rebeccapurple;
+    font-weight: 400;
+}
+#pro{
+    background-color: rgb(255, 114, 79);
+     padding: 20px 0;
+     border-radius: 10px;
+     font-size: 24px;
+}
+#b2{
+    background-color:rgb(255, 114, 79);
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color:  white;
+    font-weight: 400;
+}
+.contact input{
+    width: 100%;
+    padding: 8px;
+}
+.button{
+    width: 100%;
+    background-color: blueviolet;
+    padding: 10px 24px;
+    color: white;
+    border-radius: 10px;
+    margin: 10px 0;
+}
